@@ -1,1 +1,3 @@
-![Dashboard](dashboard.png)
+## Dashboard Preview
+
+![Dashboard](powerbi_portfolio_1.png)
